@@ -40,7 +40,7 @@ Capabilities:
 -------------
 [ ] Web Browsing
 [ ] DALL·E Image Generation
-[X] Code Interpreter
+[ ] Code Interpreter
 
 Actions:
 --------
